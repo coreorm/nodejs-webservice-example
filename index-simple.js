@@ -5,7 +5,7 @@
 const express = require('express');
 const app = express();
 
-var port = process.env.PORT || 1300;
+var port = process.env.PORT || 5000;
 app.set('port', port);
 
 app.get('/ping', function (req, res) {
