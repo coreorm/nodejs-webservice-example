@@ -2,8 +2,10 @@
 sample app of web service
 
 ## setup
-`npm install`
-`npm install -g mocha`
+```
+npm install
+npm install -g mocha
+```
 
 ## Contents
 - `index.js` the main entry point
